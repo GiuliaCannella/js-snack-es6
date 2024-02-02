@@ -20,13 +20,13 @@ const tavoloVip = [
     {
         nome:'Johnny Depp',
         tavolo: 'Robin Hood',
-        posto:'22'
+        posto:'19'
 
     },
     {
         nome:'Lady Gaga',
         tavolo: 'the last',
-        posto:'23'
+        posto:'7'
 
     },
     {
