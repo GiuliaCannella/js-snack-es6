@@ -57,7 +57,7 @@ const students = [
     },
 ]
 
-students.forEach(studente => studente.targa = studente.nome.toUpperCase());
+students.forEach(studente => studente.targa = studente.nome.toUpperCase());de
 
 const arrayFilterVoti= students.filter(studente => parseInt(studente.voto) >= 70);
 arrayFilterVoti.forEach(studente => console.log(studente, 'arrayFilterVoti'))
